@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# SQLite database
+*.db
+
+# Environment variables / secrets (if you use them)
+.env
+
+# VS Code and PyCharm settings (optional, but recommended)
+.vscode/
+.idea/
+
+# MacOS and Windows system files
+.DS_Store
+Thumbs.db
